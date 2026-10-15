@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @StormZShr
+/src/backend/database.py      @StormZShr
+/src/backend/routers/auth.py  @StormZShr
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @StormZShr
